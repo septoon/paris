@@ -1,14 +1,6 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap'); */
 /* @import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@1,600&display=swap'); */
 
-@font-face {
-  font-family: 'Cormorant';
-  src: url('../public/fonts/CormorantInfant-MediumItalic.ttf') format('truetype');
-  font-weight: normal;
-  font-style: italic;
-}
-
-
 * {
   margin: 0;
   padding: 0;
