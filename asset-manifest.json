@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/paris/static/css/main.6db737ae.css",
+    "main.css": "/paris/static/css/main.941b7d78.css",
     "main.js": "/paris/static/js/main.08f8adfb.js",
+    "static/media/CormorantInfant-MediumItalic.ttf": "/paris/static/media/CormorantInfant-MediumItalic.2f3d5e822cd4ccead7f9.ttf",
     "index.html": "/paris/index.html",
-    "main.6db737ae.css.map": "/paris/static/css/main.6db737ae.css.map",
+    "main.941b7d78.css.map": "/paris/static/css/main.941b7d78.css.map",
     "main.08f8adfb.js.map": "/paris/static/js/main.08f8adfb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6db737ae.css",
+    "static/css/main.941b7d78.css",
     "static/js/main.08f8adfb.js"
   ]
 }
