@@ -3,8 +3,32 @@
   flex-direction: column;
 }
 
+.booking {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 8dvh;
+  background: #FFEBD0;
+}
+
+
+.booking a {
+  text-decoration: none;
+  color: black;
+}
+
+.booking h1 {
+  font-family: 'Cormorant Infant', serif;
+}
+
 .image {
   width: 100vw;
+}
+
+@media (max-width: 500px) {
+  .booking h1 {
+    font-size: 1.5em;
+  }
 }
 
 @media (prefers-reduced-motion: no-preference) {
