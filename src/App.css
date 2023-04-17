@@ -1,10 +1,10 @@
 .App {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.image {
+  width: 100vw;
 }
 
 @media (prefers-reduced-motion: no-preference) {
