@@ -1,7 +1,9 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap'); */
 /* @import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@1,600&display=swap'); */
 
-* {
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@1,500&family=Cormorant+Infant:ital,wght@1,600&display=swap');
+
+ * {
   margin: 0;
   padding: 0;
 }

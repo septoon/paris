@@ -1,6 +1,7 @@
 .App {
   display: flex;
   flex-direction: column;
+  font-family: 'Brygada 1918', serif;
 }
 
 .booking {
@@ -11,6 +12,10 @@
   background: #FFEBD0;
 }
 
+.booking h1 {
+  font-size: 1.5em;
+  font-weight: normal; 
+}
 
 .booking a {
   text-decoration: none;
